@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260416_174027",
+  "user_message": "UN CANE MI HA MANGIATO LA COLAZIONE",
+  "classification": {
+    "label": "COLAZIONE",
+    "urgency": "BASSA",
+    "summary": "Un cane ha mangiato la colazione del cliente."
+  },
+  "context": "[animali] Animali ammessi su richiesta con supplemento di 15 euro a notte.\n\n[colazione_in_camera] Colazione in camera disponibile con supplemento di 10 euro.\n\n[colazione] Colazione disponibile dalle 07:30 alle 10:00. Opzioni senza glutine su richiesta.",
+  "reply": "Gentile Cliente,\n\nci dispiace apprendere che il suo cane ha mangiato la colazione. La colazione è disponibile dalle 07:30 alle 10:00 e, se desidera, possiamo offrirle la possibilità di avere la colazione in camera con un supplemento di 10 euro. \n\nSe ha bisogno di ulteriore assistenza, non esiti a contattarci.\n\nCordiali saluti,  \nIl Team dell'Hotel",
+  "meta": {
+    "classifier": {
+      "label": "COLAZIONE",
+      "urgency": "BASSA",
+      "summary": "Un cane ha mangiato la colazione del cliente."
+    },
+    "retrieval": {
+      "top_k": [
+        "animali",
+        "colazione_in_camera",
+        "colazione"
+      ],
+      "scores": [
+        0.33996939443920837,
+        0.2945236521488823,
+        0.27882891494300566
+      ]
+    }
+  }
+}

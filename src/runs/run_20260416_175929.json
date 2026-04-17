@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260416_175929",
+  "user_message": "SONO RIMASTO FUORI DELLA CAMERA",
+  "classification": {
+    "label": "CHECKIN",
+    "urgency": "ALTA",
+    "summary": "Cliente segnala di essere rimasto fuori dalla camera."
+  },
+  "context": "[politica_fumo] L’hotel è interamente non fumatori. È presente un’area fumatori esterna.\n\n[servizio_in_camera] Servizio in camera disponibile dalle 12:00 alle 22:00.\n\n[cassaforte] Ogni camera dispone di cassaforte digitale gratuita.",
+  "reply": "Gentile Cliente,\n\nCi scusiamo per l'inconveniente. Per poterla assistere al meglio, la invitiamo a contattare la reception al più presto possibile, in modo da risolvere la situazione e garantirle l'accesso alla sua camera. \n\nLa ringraziamo per la comprensione.\n\nCordiali saluti,  \nIl Team dell'Hotel",
+  "meta": {
+    "classifier": {
+      "label": "CHECKIN",
+      "urgency": "ALTA",
+      "summary": "Cliente segnala di essere rimasto fuori dalla camera."
+    },
+    "retrieval": {
+      "top_k": [
+        "politica_fumo",
+        "servizio_in_camera",
+        "cassaforte"
+      ],
+      "scores": [
+        0.4002294845178085,
+        0.39669337547761074,
+        0.38264343106001775
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260416_172727",
+  "user_message": "mi parli della spa\nmi parli del ristorante?",
+  "classification": {
+    "label": "INFO",
+    "urgency": "BASSA",
+    "summary": "Chiede informazioni sulla spa e sul ristorante."
+  },
+  "context": "[spa] La spa è aperta dalle 10:00 alle 19:00. Accesso su prenotazione.\n\n[ristorante] Il ristorante è aperto dalle 19:00 alle 22:30. Prenotazione consigliata.\n\n[palestra] La palestra è aperta 24 ore su 24 per gli ospiti dell’hotel.",
+  "reply": "La spa è aperta dalle 10:00 alle 19:00 e l'accesso è su prenotazione. Per quanto riguarda il ristorante, è aperto dalle 19:00 alle 22:30 e si consiglia di effettuare una prenotazione. Se ha bisogno di ulteriori informazioni o desidera prenotare, non esiti a contattarci.",
+  "meta": {
+    "classifier": {
+      "label": "INFO",
+      "urgency": "BASSA",
+      "summary": "Chiede informazioni sulla spa e sul ristorante."
+    },
+    "retrieval": {
+      "top_k": [
+        "spa",
+        "ristorante",
+        "palestra"
+      ],
+      "scores": [
+        0.4469213863567134,
+        0.40440595139307334,
+        0.34787770150711594
+      ]
+    }
+  }
+}

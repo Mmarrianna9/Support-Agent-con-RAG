@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260416_174001",
+  "user_message": "SONO CHIUSO FUORI DALLA MIA CAMERA!!!",
+  "classification": {
+    "label": "ASSISTENZA",
+    "urgency": "ALTA",
+    "summary": "Cliente chiuso fuori dalla propria camera."
+  },
+  "context": "[servizio_in_camera] Servizio in camera disponibile dalle 12:00 alle 22:00.\n\n[cassaforte] Ogni camera dispone di cassaforte digitale gratuita.\n\n[politica_fumo] L’hotel è interamente non fumatori. È presente un’area fumatori esterna.",
+  "reply": "Gentile Cliente, ci scusiamo per l'inconveniente. La invitiamo a contattare la reception al più presto per ricevere assistenza e riaccedere alla sua camera. Siamo qui per aiutarla. Grazie per la sua comprensione.",
+  "meta": {
+    "classifier": {
+      "label": "ASSISTENZA",
+      "urgency": "ALTA",
+      "summary": "Cliente chiuso fuori dalla propria camera."
+    },
+    "retrieval": {
+      "top_k": [
+        "servizio_in_camera",
+        "cassaforte",
+        "politica_fumo"
+      ],
+      "scores": [
+        0.37985070618208283,
+        0.3543433450881679,
+        0.3506936183228788
+      ]
+    }
+  }
+}

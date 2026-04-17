@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260416_174133",
+  "user_message": "AVETE WIFI IN PISCINA?",
+  "classification": {
+    "label": "INFO",
+    "urgency": "BASSA",
+    "summary": "Chiede informazioni sulla disponibilità del WiFi in piscina."
+  },
+  "context": "[wifi] WiFi gratuito disponibile in tutta la struttura senza password.\n\n[piscina] Piscina esterna aperta da maggio a settembre dalle 09:00 alle 18:00.\n\n[cassaforte] Ogni camera dispone di cassaforte digitale gratuita.",
+  "reply": "Sì, abbiamo WiFi gratuito disponibile in tutta la struttura, inclusa la piscina. Se ha ulteriori domande o necessità, non esiti a contattarci.",
+  "meta": {
+    "classifier": {
+      "label": "INFO",
+      "urgency": "BASSA",
+      "summary": "Chiede informazioni sulla disponibilità del WiFi in piscina."
+    },
+    "retrieval": {
+      "top_k": [
+        "wifi",
+        "piscina",
+        "cassaforte"
+      ],
+      "scores": [
+        0.4936293534146614,
+        0.44390666449339733,
+        0.3454518365006152
+      ]
+    }
+  }
+}

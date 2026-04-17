@@ -1,0 +1,50 @@
+A che ora è il check-in?
+Il WiFi non funziona ed è urgente
+Posso fare il check-out più tardi?
+La TV in camera non si accende
+Avete parcheggio disponibile?
+Non riesco ad aprire la porta della camera, aiuto
+A che ora viene servita la colazione?
+Il condizionatore non raffredda
+Posso lasciare i bagagli prima del check-in?
+C'è un ristorante in hotel?
+La doccia perde acqua
+Serve assistenza immediata, la stanza è allagata
+Avete opzioni senza glutine?
+Il phon non funziona
+È possibile avere una culla per bambini?
+La cassaforte non si apre
+A che ora chiude la piscina?
+La luce in bagno non funziona
+Posso portare un animale domestico?
+C'è il servizio in camera?
+Il riscaldamento non funziona
+Ho bisogno di asciugamani extra
+La stanza non è stata pulita
+Avete una palestra?
+Non funziona il minibar
+Posso avere una sveglia telefonica?
+Il letto è scomodo
+C'è una spa in struttura?
+Il telefono in camera non funziona
+Ho perso la chiave della camera
+Posso avere un taxi per domani mattina?
+La porta del bagno non si chiude
+C'è una fermata bus vicino?
+Il frigorifero non raffredda
+È disponibile il servizio lavanderia?
+Il WiFi è lentissimo
+Posso cambiare camera?
+C'è un supermercato nelle vicinanze?
+L'acqua calda non arriva
+Serve aiuto subito, non riesco a entrare in hotel
+Posso prenotare un tavolo al ristorante?
+La finestra non si chiude
+Avete transfer da/per aeroporto?
+La stanza è troppo rumorosa
+Posso pagare con carta?
+La serratura sembra rotta
+A che ora apre la reception?
+Il climatizzatore fa rumore strano
+Avete servizio navetta?
+Ho bisogno urgente di assistenza in camera

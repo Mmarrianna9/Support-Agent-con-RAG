@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260417_093249",
+  "user_message": "posso acedere a spa",
+  "classification": {
+    "label": "INFO",
+    "urgency": "BASSA",
+    "summary": "Chiede informazioni sull'accesso alla spa."
+  },
+  "context": "[spa] La spa è aperta dalle 10:00 alle 19:00. Accesso su prenotazione.\n\n[palestra] La palestra è aperta 24 ore su 24 per gli ospiti dell’hotel.\n\n[reception] Reception aperta 24 ore su 24.",
+  "reply": "Gentile Cliente,\n\nL'accesso alla spa è possibile su prenotazione e gli orari di apertura sono dalle 10:00 alle 19:00. La invitiamo a contattare la reception per ulteriori dettagli e per effettuare la prenotazione.\n\nRimaniamo a disposizione per qualsiasi ulteriore informazione.\n\nCordiali saluti.",
+  "meta": {
+    "classifier": {
+      "label": "INFO",
+      "urgency": "BASSA",
+      "summary": "Chiede informazioni sull'accesso alla spa."
+    },
+    "retrieval": {
+      "top_k": [
+        "spa",
+        "palestra",
+        "reception"
+      ],
+      "scores": [
+        0.6234705361590613,
+        0.41930327174370063,
+        0.4161324040744603
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260416_173152",
+  "user_message": "mi parli delle piscine?",
+  "classification": {
+    "label": "INFO",
+    "urgency": "BASSA",
+    "summary": "Chiede informazioni sulle piscine."
+  },
+  "context": "[piscina] Piscina esterna aperta da maggio a settembre dalle 09:00 alle 18:00.\n\n[vista_mare] Camere vista mare disponibili con supplemento.\n\n[spa] La spa è aperta dalle 10:00 alle 19:00. Accesso su prenotazione.",
+  "reply": "La nostra struttura dispone di una piscina esterna, aperta da maggio a settembre, con orario dalle 09:00 alle 18:00. Se desidera ulteriori informazioni o ha bisogno di assistenza, non esiti a contattarci. Siamo qui per aiutarla!",
+  "meta": {
+    "classifier": {
+      "label": "INFO",
+      "urgency": "BASSA",
+      "summary": "Chiede informazioni sulle piscine."
+    },
+    "retrieval": {
+      "top_k": [
+        "piscina",
+        "vista_mare",
+        "spa"
+      ],
+      "scores": [
+        0.4921706744631251,
+        0.2963126965507854,
+        0.28994896142358684
+      ]
+    }
+  }
+}

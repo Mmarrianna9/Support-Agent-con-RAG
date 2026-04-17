@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260417_093319",
+  "user_message": "check in alle 2.30 posso fare?",
+  "classification": {
+    "label": "CHECKIN",
+    "urgency": "MEDIA",
+    "summary": "Chiede se può effettuare il check-in alle 2.30."
+  },
+  "context": "[checkin] Check-in dalle 14:00. Late check-in fino alle 02:30 previa comunicazione.\n\n[checkout] Check-out entro le 11:00. Late check-out disponibile su richiesta e disponibilità.\n\n[checkin_online] Check-in online disponibile prima dell’arrivo tramite link inviato via email.",
+  "reply": "Gentile cliente, \n\nSì, è possibile effettuare il check-in fino alle 02:30, ma è necessario comunicarlo in anticipo. Se ha bisogno di ulteriori informazioni o assistenza, non esiti a contattarci.\n\nCordiali saluti.",
+  "meta": {
+    "classifier": {
+      "label": "CHECKIN",
+      "urgency": "MEDIA",
+      "summary": "Chiede se può effettuare il check-in alle 2.30."
+    },
+    "retrieval": {
+      "top_k": [
+        "checkin",
+        "checkout",
+        "checkin_online"
+      ],
+      "scores": [
+        0.6342135879740738,
+        0.5925574370170921,
+        0.5118981852570244
+      ]
+    }
+  }
+}
